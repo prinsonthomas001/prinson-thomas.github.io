@@ -1,3 +1,6 @@
+Senior Devops Engineer @ ApnaHq
+-----------------
+
 Job Responsibilities
 --------------------------------
 Implemented one-click Kubernetes service deployment. 
@@ -13,6 +16,8 @@ Cost optimisation :
 - Reduced 20% compute engine cost by creating automation for shutting down non-critical services and by creating ondemand dev environment setup for QA and Dev.
 
 
+Senior Devops Engineer @ Smartbear Software
+-----------------
 
 Job Responsibilities
 --------------------------------
