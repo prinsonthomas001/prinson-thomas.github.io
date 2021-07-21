@@ -1,37 +1,61 @@
-## Welcome to GitHub Pages
+Job Responsibilities
+--------------------------------
+Implemented one-click Kubernetes service deployment. 
+Advanced CI/CD pipeline for microservice deployment.
+Implemented ZERO downtime deployment for DJANGO monolith service.
+Achieved 99.999 % uptime SLA
+Hands on experience in managing large scale infra, GKE clusters, Hybrid Clouds, CI/CD pipelines.
+Hands on experience in debugging production issue, and setting up SOPs
+Integrated all services with Datadog for infra, service, RUM and APM monitoring
+Cost optimisation : 
+- Reduced 30% Elasticsearch cost by introducing Time Based Autoscaling.
+- Reduced 20% CloudSQL cost by creating automation for ondemand read replicas.
+- Reduced 20% compute engine cost by creating automation for shutting down non-critical services and by creating ondemand dev environment setup for QA and Dev.
 
-You can use the [editor on GitHub](https://github.com/prinsonthomas001/prinson-thomas.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+Job Responsibilities
+--------------------------------
+Created production ready infra. from scratch.
+Implemented one-click SaaS cloud trials for end users, (Zephyr Enterprise SAAS trial) and Oneclick SAAS upgrades.
+Implemented Blue / Green Deployment pipeline.
+Implemented Data Pipeline to migrate dynamodb databse to different enviornment
+Implemented Disaster Recovery plan.
+Created Backup cluster for legacy RIAK KV DB.
+Migrated containers to ECS
+Written pipeline for QA / Dev automation and for on-demand infra
+Migrated Elasticsearch to bigger self managed cluster.
+Migrated inhouse infra to AWS infrastructre.
+Implemented ELK stack to monitor application logs, and server metrics
+Manging OpenVPN for DEVs to connect with intranet.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- Reduced 20% compute engine cost by creating automation for creating ondemand dev environment setup for QA and Dev and shutting down non-critical services on off-peak hours.
+- Reduced cost by migrating to inhouse elasticsearch infra.
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+Devops NOC Engineer @ Ola Cabs (ANI Technologies)
+-----------------
 
-- Bulleted
-- List
+Setting up / configuring obervability for services.
+Monitoring services and making sure 99.999% uptime
+Writing SOPs for alerts, and debugging production issues.
+Scaling up infra on demand
+Deploying services
+Setting up CI/CD pipelines
 
-1. Numbered
-2. List
+Senior System Administrator ​Endurance International Group​ (Former ​Directi​) (September 2015 to February 2017)
+-----------------
+Manging large scale infra.
+End to end support for hosting related issues such as web server issues, DNS issues, mail issues etc. Monitors and updates and implements patches and fixes on dedicated servers.
+Setting up Application servers 
 
-**Bold** and _Italic_ and `Code` text
+Senior System Administrator at ​Syntrio Technologies​ (January 2014 to September 2015)
+-----------------
+Manging large scale infra.
+Setting up Application servers, DNS servers, LAMP stacks, Mail servers.
+Troubleshooting production issues
+Patching servers 
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/prinsonthomas001/prinson-thomas.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
