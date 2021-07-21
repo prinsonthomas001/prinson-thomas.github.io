@@ -1,2 +1,2 @@
-# prinson-thomas.github.io
+# linuxtechs.in
 My personnel Blog
